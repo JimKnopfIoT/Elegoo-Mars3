@@ -13,6 +13,7 @@ LCD Screen which is delivered with a new gasket. But the LCD itself was OK.
 
 Since i bought an Cameo 4 plotter, i decided to cut my own gasket. I use a standard Vinyl foil.
 You can also use a better quality foil used for automotiv stuff. 
+The original one has a thickness of 0,11 mm (both, the gasket and the FEP film).
 
 <img src="Gasket.png" width="500" align="center"> 
 
