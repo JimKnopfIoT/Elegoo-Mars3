@@ -13,6 +13,7 @@ LCD Screen which is delivered with a new gasket. But the LCD itself was OK.
 
 Since i bought an Cameo 4 plotter, i decided to cut my own gasket. I use a standard Vinyl foil.
 You can also use a better quality foil used for automotiv stuff. 
+
 <img src="Gasket.png" width="500" align="center"> 
 
 ## Elegoo Mars 3 Magnetic Build Plate Holder for IPA Tank.
@@ -23,9 +24,11 @@ tank. You have to wash your parts with the tank open.
 I created my own Build-Plate holder. It has a magnet on top
 I placed another magnet (both 20x3 mm Neodym-Magnets) on top of the tank cover.
 Works great.
+
 <img src="IPA-Tank-Holder.jpg" width="500" align="center"> 
 
 ## Elegoo Mars 3 Build-Plate Drip-Holder
 45° Drip holder for Elegoo Mars 3 Build-Plate.
+
 <img src="Drip-Hanger.jpg" width="500" align="center"> 
 
