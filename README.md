@@ -22,7 +22,7 @@ To make things easy, i made this additional Screen Protector under the VAT
 and a Seal to prevent Resin running under the the Protector foil. I cut both 
 with the Silhouette Cameo 4 plotter. The Seal foil should as thin as possible.
 
-<img src="Screen-Protector.png" width="500" align="center"> 
+<img src="Screen-protector.png" width="500" align="center"> 
 
 ## Elegoo Mars 3 Magnetic Build Plate Holder for IPA Tank.
 My Mercury 2in1 washer/curer has only a metal box inside. Maybe there is a pro Version
