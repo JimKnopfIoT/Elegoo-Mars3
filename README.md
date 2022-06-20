@@ -17,6 +17,13 @@ The original one has a thickness of 0,11 mm (both, the gasket and the FEP film).
 
 <img src="Gasket.png" width="500" align="center"> 
 
+## Elegoo Mars 3 Additional Screen Protector under VAT (VAT size) and Seal
+To make things easy, i made this additional Screen Protector under the VAT 
+and a Seal to prevent Resin running under the the Protector foil. I cut both 
+with the Silhouette Cameo 4 plotter. The Seal foil should as thin as possible.
+
+<img src="Screen-Protector.png" width="500" align="center"> 
+
 ## Elegoo Mars 3 Magnetic Build Plate Holder for IPA Tank.
 My Mercury 2in1 washer/curer has only a metal box inside. Maybe there is a pro Version
 which has also a Build-Plate holder. The downside of this holder is, you can't close the sealed 
