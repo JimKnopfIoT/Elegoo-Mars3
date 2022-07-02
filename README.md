@@ -40,3 +40,20 @@ Works great.
 
 <img src="Drip-Hanger.jpg" width="500" align="center"> 
 
+## Elegoo Mars 3 VAT cleaner
+On Thingyverse i found some VAT cleaners but not for the special Mars 3 VAT and my personally needs. 
+I got a cheap mobile Drill-Stand with a 42 mm diameter hole. The VAT cleaner should fit to this Drill-Stand.
+So i created my own one that fit's and prevent the VAT from falling off. There is a 20 mm channel where i can place a metal filter mesh.
+I found cheap 20 mm stainless steel strainer used in (smoke) pipes. Works pretty well.
+I printed it with cheap ABS-like Resin on the Mars 3. 
+
+<img src="IMG_20220702_204219.jpg" width="400" align="left"> <img src="IMG_20220702_201918.jpg" width="400" align="center"> <img src="IMG_20220702_202330.jpg" width="400" align="center"> <img src="IMG_20220702_202237.jpg" width="400" align="right">
+
+## IPA cleaner filter
+I use the Elegoo Mercury Plus 2.0 washer/currer combo. The washer has 3,5 l volume. To clean the IPA and reuse it, i got another
+sealed 5 l Box. I use a cheap manual fuel pump to put the IPA from the washer tank to the 5 l tank that i put outside in the sun for about 2 week.
+I created this two filters for the pump to prevent pumping Resin residue from the washer tank and later from 5 l tank back into bottles.
+I printed it with cheap ABS-like Resin on the Mars 3. 
+
+<img src="IMG_20220702_203003.jpg" width="400" align="left"> <img src="IMG_20220702_203426.jpg" width="400"> <img src="IMG_20220702_203640.jpg" width="400"> <img src="IMG_20220702_203717.jpg" width="400"> 
+
