@@ -47,10 +47,10 @@ So i created my own one that fit's and prevent the VAT from falling off. There i
 I found cheap 20 mm stainless steel strainer used in (smoke) pipes. Works pretty well.
 I printed it with cheap ABS-like Resin on the Mars 3. 
 <p align="center">
-<img src="IMG_20220702_204219.jpg" width="220"> 
-<img src="IMG_20220702_201918.jpg" width="220"> 
-<img src="IMG_20220702_202330.jpg" width="220"> 
-<img src="IMG_20220702_202237.jpg" width="220">
+<img src="IMG_20220702_204219.jpg" height="220"> 
+<img src="IMG_20220702_201918.jpg" height="220"> 
+<img src="IMG_20220702_202330.jpg" height="220"> 
+<img src="IMG_20220702_202237.jpg" height="220"> 
 </p>
 
 ## IPA cleaner filter
