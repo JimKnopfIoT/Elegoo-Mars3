@@ -59,8 +59,8 @@ sealed 5 l Box. I use a cheap manual fuel pump to put the IPA from the washer ta
 I created this two filters for the pump to prevent pumping Resin residue from the washer tank and later from 5 l tank back into bottles.
 I printed it with cheap ABS-like Resin on the Mars 3. 
 <p align="center">
-<img src="IMG_20220702_203003.jpg" width="220"> 
-<img src="IMG_20220702_203426.jpg" width="220"> 
-<img src="IMG_20220702_203640.jpg" width="220">
-<img src="IMG_20220702_203717.jpg" width="220"> 
+<img src="IMG_20220702_203003.jpg" height="220"> 
+<img src="IMG_20220702_203426.jpg" height="220"> 
+<img src="IMG_20220702_203640.jpg" height="220"> 
+<img src="IMG_20220702_203717.jpg" height="220"> 
 </p>
